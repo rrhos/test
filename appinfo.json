@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "randy.hosler@gmail.com",
+    "longName": "test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "test",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "7ed8fa29-6a89-45c9-8823-04f8bbc519e4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
